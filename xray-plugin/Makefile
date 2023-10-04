@@ -41,3 +41,4 @@ endef
 
 $(eval $(call GoBinPackage,xray-plugin))
 $(eval $(call BuildPackage,xray-plugin))
+github468
